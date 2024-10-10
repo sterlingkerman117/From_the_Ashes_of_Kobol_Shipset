@@ -1,0 +1,172 @@
+{
+    "hullName": "Amphilochus",
+    "hullId": "SK_COL_Amphilochus",
+    "hullSize": "DESTROYER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/destroyers/SK_COL_Amphilochus.png",
+    "height": 274,
+    "width": 104,
+    "center": [
+        52, 137
+    ],
+    "collisionRadius": 145,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 145,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 15,
+            "angle": 0,
+            "locations": [
+                    14.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                   121.5,     23.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                   121.5,    -23.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 180,
+            "locations": [
+                   -84.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -127.5, 27.5
+            ],
+            "length": 50,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -127.5, -27.5
+            ],
+            "length": 50,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -127.5, 0
+            ],
+            "length": 50,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+            26.5,     -9.5,
+           103.5,    -15.5,
+           119.5,    -15.5,
+           135.5,    -19.5,
+           135.5,    -20.5,
+        
+           129.5,    -20.5,
+           129.5,    -26.5,
+           124.5,    -30.5,
+           109.5,    -33.5,
+            87.5,    -37.5,
+        
+            73.5,    -37.5,
+            65.5,    -42.5,
+            31.5,    -47.5,
+            18.5,    -49.5,
+            -7.5,    -50.5,
+        
+           -13.5,    -50.5,
+           -28.5,    -35.5,
+           -72.5,    -35.5,
+           -72.5,    -45.5,
+             -85,    -47.5,
+        
+           -97.5,    -46.5,
+           -97.5,    -35.5,
+          -111.5,    -35.5,
+          -135.5,    -32.5,
+          -135.5,    -21.5,
+        
+          -112.5,    -20.5,
+          -112.5,     -8.5,
+          -135.5,     -6.5,
+          -135.5,      6.5,
+          -112.5,      8.5,
+        
+          -112.5,     20.5,
+          -135.5,     21.5,
+          -135.5,     32.5,
+          -111.5,     35.5,
+           -97.5,     35.5,
+        
+           -97.5,     46.5,
+             -85,     47.5,
+           -72.5,     45.5,
+           -72.5,     35.5,
+           -28.5,     35.5,
+        
+           -13.5,     50.5,
+            -7.5,     50.5,
+            18.5,     49.5,
+            31.5,     47.5,
+            65.5,     42.5,
+        
+            73.5,     37.5,
+            87.5,     37.5,
+           109.5,     33.5,
+           124.5,     30.5,
+           129.5,     26.5,
+        
+           129.5,     20.5,
+           135.5,     20.5,
+           135.5,     19.5,
+           119.5,     15.5,
+           103.5,     15.5,
+        
+            26.5,      9.5
+    # 56 points total.
+    ]
+}

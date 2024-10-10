@@ -1,0 +1,116 @@
+{
+    "hullName": "Gremlin",
+    "hullId": "SK_COL_Gremlin",
+    "hullSize": "FRIGATE",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/frigates/SK_COL_Gremlin.png",
+    "height": 112,
+    "width": 46,
+    "center": [
+        23, 56
+    ],
+    "collisionRadius": 65,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 65,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                    41.5,        8
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                    41.5,       -8
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -54, 19
+            ],
+            "length": 30,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 30,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -54, -19
+            ],
+            "length": 30,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 30,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+            48.5,     -1.5,
+            54.5,     -2.5,
+            54.5,     -4.5,
+            52.5,     -4.5,
+            52.5,    -10.5,
+        
+            45.5,    -12.5,
+            28.5,    -15.5,
+            17.5,    -16.5,
+           -10.5,    -16.5,
+           -14.5,    -20.5,
+        
+           -17.5,    -21.5,
+           -54.5,    -21.5,
+           -54.5,    -16.5,
+           -40.5,    -14.5,
+           -39.5,    -13.5,
+        
+           -29.5,    -13.5,
+           -26.5,     -8.5,
+           -31.5,     -2.5,
+           -31.5,      2.5,
+           -26.5,      8.5,
+        
+           -29.5,     13.5,
+           -39.5,     13.5,
+           -40.5,     14.5,
+           -54.5,     16.5,
+           -54.5,     21.5,
+        
+           -17.5,     21.5,
+           -14.5,     20.5,
+           -10.5,     16.5,
+            17.5,     16.5,
+            28.5,     15.5,
+        
+            45.5,     12.5,
+            52.5,     10.5,
+            52.5,      4.5,
+            54.5,      4.5,
+            54.5,      2.5,
+        
+            48.5,      1.5
+    # 36 points total.
+    ]
+}

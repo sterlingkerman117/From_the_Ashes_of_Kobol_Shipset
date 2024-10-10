@@ -1,0 +1,19 @@
+{
+    "displayName": "Assaultstar",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_Sabre",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Sabre_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "SK_COL_Spinal_Cannon"
+            }
+        }
+    ]
+}

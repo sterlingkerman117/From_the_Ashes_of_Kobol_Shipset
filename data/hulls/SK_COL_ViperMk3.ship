@@ -1,0 +1,126 @@
+{
+    "hullName": "Viper MkIII",
+    "hullId": "SK_COL_ViperMk3",
+    "hullSize": "FIGHTER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/fighters/SK_COL_ViperMk3.png",
+    "height": 40,
+    "width": 20,
+    "center": [
+        10, 20
+    ],
+    "collisionRadius": 22,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 22,
+    "viewOffset": 0,
+    "builtInMods": [
+        "insulatedengine"
+    ],
+    "builtInWeapons": {
+        "WS 002": "SK_COL_Viper_Missile",
+        "WS 000": "SK_COL_Viper_Cannon",
+        "WS 001": "SK_COL_Viper_Cannon"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 10,
+            "angle": 0,
+            "locations": [
+                     6.5,      4.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 10,
+            "angle": 0,
+            "locations": [
+                     6.5,     -4.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                     6.5,        0
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 90,
+            "angle": 180,
+            "locations": [
+                   -18.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -19, 0
+            ],
+            "length": 15,
+            "width": 3,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -17, 3.5
+            ],
+            "length": 15,
+            "width": 3,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -17, -3.5
+            ],
+            "length": 15,
+            "width": 3,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           -18.5,      1.5,
+           -16.5,      4.5,
+           -10.5,      8.5,
+            -2.5,      8.5,
+             6.5,      4.5,
+        
+             8.5,      2.5,
+            18.5,      1.5,
+            18.5,     -1.5,
+             8.5,     -2.5,
+             6.5,     -4.5,
+        
+            -2.5,     -8.5,
+           -10.5,     -8.5,
+           -16.5,     -4.5,
+           -18.5,     -1.5
+    # 14 points total.
+    ]
+}

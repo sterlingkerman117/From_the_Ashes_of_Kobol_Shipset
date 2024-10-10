@@ -1,0 +1,21 @@
+{
+    "displayName": "Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_Blackbird",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Blackbird_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "SK_COL_Viper_Torpedo",
+                "WS 000": "SK_COL_Viper_Torpedo",
+                "WS 002": "SK_COL_Viper_Torpedo"
+            }
+        }
+    ]
+}
