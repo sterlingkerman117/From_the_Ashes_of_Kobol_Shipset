@@ -7,5 +7,16 @@
     "hullMods": [],
     "quality": 0.0,
     "variantId": "SK_COL_Amphilochus_A",
-    "weaponGroups": []
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "SK_COL_Medium_Flak",
+                "WS 000": "SK_COL_Medium_Nuclear_Missile",
+                "WS 001": "SK_COL_Medium_Battery",
+                "WS 002": "SK_COL_Medium_Battery"
+            }
+        }
+    ]
 }

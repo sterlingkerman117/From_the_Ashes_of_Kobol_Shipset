@@ -7,5 +7,21 @@
     "hullMods": [],
     "quality": 0.0,
     "variantId": "SK_COL_Athena_A",
-    "weaponGroups": []
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Medium_Nuclear_Missile",
+                "WS 001": "SK_COL_Medium_Nuclear_Missile",
+                "WS 002": "SK_COL_Small_Flak",
+                "WS 003": "SK_COL_Small_Flak",
+                "WS 004": "SK_COL_Small_Flak",
+                "WS 005": "SK_COL_Small_Flak"
+            }
+        }
+    ],
+    "wings": [
+        "SK_COL_Maui_wing"
+    ]
 }

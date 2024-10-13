@@ -7,5 +7,14 @@
     "hullMods": [],
     "quality": 0.0,
     "variantId": "SK_COL_Gremlin_A",
-    "weaponGroups": []
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Medium_Battery",
+                "WS 001": "SK_COL_Medium_Nuclear_Missile"
+            }
+        }
+    ]
 }

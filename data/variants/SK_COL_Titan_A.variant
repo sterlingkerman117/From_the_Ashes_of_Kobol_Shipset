@@ -7,5 +7,19 @@
     "hullMods": [],
     "quality": 0.0,
     "variantId": "SK_COL_Titan_A",
-    "weaponGroups": []
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "SK_COL_Small_Battery",
+                "WS 003": "SK_COL_Small_Nuclear_Missile",
+                "WS 000": "SK_COL_Small_Flak",
+                "WS 001": "SK_COL_Small_Flak"
+            }
+        }
+    ],
+    "wings": [
+        "SK_COL_Python_wing"
+    ]
 }

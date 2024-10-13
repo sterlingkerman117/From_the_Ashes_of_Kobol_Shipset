@@ -12,8 +12,19 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 000": "SK_COL_Spinal_Cannon"
+                "WS 000": "SK_COL_Nuclear_Torpedo",
+                "WS 001": "SK_COL_Medium_Battery",
+                "WS 002": "SK_COL_Medium_Battery",
+                "WS 003": "SK_COL_Small_Flak",
+                "WS 004": "SK_COL_Small_Flak",
+                "WS 005": "SK_COL_Small_Flak",
+                "WS 006": "SK_COL_Small_Flak",
+                "WS 008": "SK_COL_Small_Flak",
+                "WS 007": "SK_COL_Small_Flak"
             }
         }
+    ],
+    "wings": [
+        "SK_COL_Larsen_wing"
     ]
 }
