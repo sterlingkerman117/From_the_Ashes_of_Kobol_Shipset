@@ -1,0 +1,255 @@
+{
+    "hullName": "Sabre",
+    "hullId": "SK_COL_Sabre",
+    "hullSize": "CRUISER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/cruisers/SK_COL_Sabre.png",
+    "height": 450,
+    "width": 108,
+    "center": [
+        54, 225
+    ],
+    "collisionRadius": 230,
+    "coversColor": "",
+    "shieldCenter": [
+        -5, 0
+    ],
+    "shieldRadius": 0,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWeapons": {
+        "WS 000": "SK_COL_Nuclear_Torpedo"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                   217.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                     130,     20.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                     130,    -20.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                     114,     22.5
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                     114,    -22.5
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 180,
+            "angle": 90,
+            "locations": [
+                    64.5,       35
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 180,
+            "angle": 270,
+            "locations": [
+                    64.5,      -35
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 180,
+            "angle": 90,
+            "locations": [
+                     -31,       43
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 180,
+            "angle": 270,
+            "locations": [
+                     -31,      -43
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                  -172.5,     22.5,
+                  -220.5,      2.5,
+                  -220.5,      5.5
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                  -172.5,    -22.5,
+                  -220.5,     -2.5,
+                  -220.5,     -5.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -64.5, 43
+            ],
+            "length": 50,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -64.5, -43
+            ],
+            "length": 50,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -151.5, 24.5
+            ],
+            "length": 50,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -151.5, -24.5
+            ],
+            "length": 50,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           217.5,    -16.5,
+           205.5,    -23.5,
+           197.5,    -24.5,
+           175.5,    -31.5,
+           161.5,    -33.5,
+        
+           117.5,    -38.5,
+           105.5,    -38.5,
+           105.5,    -31.5,
+            78.5,    -31.5,
+            72.5,    -42.5,
+        
+            65.5,    -47.5,
+            46.5,    -50.5,
+            16.5,    -52.5,
+           -50.5,    -52.5,
+           -65.5,    -50.5,
+        
+           -65.5,    -36.5,
+          -140.5,    -35.5,
+          -152.5,    -33.5,
+          -152.5,    -23.5,
+          -178.5,    -23.5,
+        
+          -188.5,    -21.5,
+          -223.5,    -12.5,
+          -223.5,     12.5,
+          -188.5,     21.5,
+          -178.5,     23.5,
+        
+          -152.5,     23.5,
+          -152.5,     33.5,
+          -140.5,     35.5,
+           -65.5,     36.5,
+           -65.5,     50.5,
+        
+           -50.5,     52.5,
+            16.5,     52.5,
+            46.5,     50.5,
+            65.5,     47.5,
+            72.5,     42.5,
+        
+            78.5,     31.5,
+           105.5,     31.5,
+           105.5,     38.5,
+           117.5,     38.5,
+           161.5,     33.5,
+        
+           175.5,     31.5,
+           197.5,     24.5,
+           205.5,     23.5,
+           217.5,     16.5,
+           217.5,      3.5,
+        
+           223.5,      0.5,
+           217.5,     -3.5
+    # 47 points total.
+    ]
+}

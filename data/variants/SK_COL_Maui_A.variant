@@ -1,0 +1,27 @@
+{
+    "displayName": "Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_Maui",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Maui_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "SK_COL_Viper_Cannon",
+                "WS 001": "SK_COL_Viper_Cannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "SK_COL_Viper_Torpedo"
+            }
+        }
+    ]
+}

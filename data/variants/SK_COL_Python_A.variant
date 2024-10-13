@@ -1,0 +1,19 @@
+{
+    "displayName": "Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_Python",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Python_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "SK_COL_Viper_Torpedo"
+            }
+        }
+    ]
+}

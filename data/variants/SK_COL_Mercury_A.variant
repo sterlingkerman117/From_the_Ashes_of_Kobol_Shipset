@@ -1,0 +1,58 @@
+{
+    "displayName": "Battlestar",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_Mercury",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Mercury_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "SK_COL_Nuclear_Torpedo",
+                "WS 001": "SK_COL_Nuclear_Torpedo",
+                "WS 002": "SK_COL_Spinal_Cannon",
+                "WS 003": "SK_COL_Spinal_Cannon",
+                "WS 004": "SK_COL_Spinal_Cannon",
+                "WS 005": "SK_COL_Spinal_Cannon",
+                "WS 006": "SK_COL_Medium_Battery",
+                "WS 007": "SK_COL_Medium_Battery",
+                "WS 008": "SK_COL_Medium_Battery",
+                "WS 009": "SK_COL_Medium_Battery",
+                "WS 010": "SK_COL_Medium_Flak",
+                "WS 011": "SK_COL_Medium_Flak",
+                "WS 016": "SK_COL_Medium_Flak",
+                "WS 017": "SK_COL_Medium_Flak",
+                "WS 014": "SK_COL_Medium_Flak",
+                "WS 015": "SK_COL_Medium_Flak",
+                "WS 012": "SK_COL_Medium_Battery",
+                "WS 013": "SK_COL_Medium_Battery",
+                "WS 030": "SK_COL_Small_Flak",
+                "WS 031": "SK_COL_Small_Flak",
+                "WS 029": "SK_COL_Small_Flak",
+                "WS 027": "SK_COL_Small_Flak",
+                "WS 026": "SK_COL_Small_Flak",
+                "WS 028": "SK_COL_Small_Flak",
+                "WS 020": "SK_COL_Small_Battery",
+                "WS 022": "SK_COL_Small_Battery",
+                "WS 018": "SK_COL_Small_Battery",
+                "WS 024": "SK_COL_Small_Battery",
+                "WS 025": "SK_COL_Small_Battery",
+                "WS 019": "SK_COL_Small_Battery",
+                "WS 023": "SK_COL_Small_Battery",
+                "WS 021": "SK_COL_Small_Battery"
+            }
+        }
+    ],
+    "wings": [
+        "SK_COL_Blackbird_wing",
+        "SK_COL_Blackbird_wing",
+        "SK_COL_ViperMk4_wing",
+        "SK_COL_ViperMk4_wing",
+        "SK_COL_RaptorMk1_wing",
+        "SK_COL_ViperMk6_wing"
+    ]
+}

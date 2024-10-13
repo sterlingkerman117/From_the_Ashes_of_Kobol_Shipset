@@ -1,0 +1,49 @@
+{
+  "id": "SK_COL_Spinal_Cannon",
+  "specClass": "projectile",
+  "projectileSpecId": "heavyac_shot",
+  "type": "BALLISTIC",
+  "size": "LARGE",
+  "displayArcRadius": 650,
+  "turretSprite": "graphics/weapons/SK_COL_BLANK.png",
+  "turretGunSprite": "graphics/weapons/SK_COL_BLANK.png",
+  "hardpointSprite": "graphics/weapons/SK_COL_BLANK.png",
+  "hardpointGunSprite": "graphics/weapons/SK_COL_BLANK.png",
+  "specialWeaponGlowHeight": 40,
+  "specialWeaponGlowWidth": 15,
+  "visualRecoil": 0.5,
+  "renderHints": [
+    RENDER_BARREL_BELOW
+  ],
+  "turretOffsets": [
+    0,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    1,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "LINKED",
+  "animationType": "MUZZLE_FLASH",
+  "muzzleFlashSpec": {
+    "length": 10,
+    "spread": 16,
+    "particleSizeMin": 2,
+    "particleSizeRange": 2,
+    "particleDuration": 0.13,
+    "particleCount": 15,
+    "particleColor": [
+      165,
+      225,
+      185,
+      175
+    ]
+  },
+  "fireSoundTwo": "SK_COL_Medium_Battery_fire"
+}
