@@ -1,0 +1,31 @@
+{
+    "displayName": "Assaultstar",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_Berzerk",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Berzerk_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "SK_COL_Nuclear_Torpedo",
+                "WS 000": "SK_COL_Medium_Battery",
+                "WS 002": "SK_COL_Medium_Battery",
+                "WS 003": "SK_COL_Medium_Battery",
+                "WS 001": "SK_COL_Medium_Battery",
+                "WS 005": "SK_COL_Small_Flak",
+                "WS 006": "SK_COL_Small_Flak",
+                "WS 008": "SK_COL_Small_Flak",
+                "WS 009": "SK_COL_Small_Flak",
+                "WS 012": "SK_COL_Small_Flak",
+                "WS 011": "SK_COL_Small_Flak",
+                "WS 010": "SK_COL_Small_Flak",
+                "WS 007": "SK_COL_Small_Flak"
+            }
+        }
+    ]
+}

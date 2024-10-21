@@ -1,0 +1,28 @@
+{
+    "displayName": "Heavy Fighter",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_ViperMk5",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_ViperMk5_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "SK_COL_Viper_Cannon",
+                "WS 000": "SK_COL_Viper_Cannon",
+                "WS 003": "SK_COL_Viper_Cannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "SK_COL_Viper_Missile"
+            }
+        }
+    ]
+}

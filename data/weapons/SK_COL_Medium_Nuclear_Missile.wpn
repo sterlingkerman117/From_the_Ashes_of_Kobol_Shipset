@@ -1,0 +1,39 @@
+{
+  "id": "SK_COL_Medium_Nuclear_Missile",
+  "specClass": "projectile",
+  "projectileSpecId": "SK_COL_Nuclear_Torpedo_projectile",
+  "type": "MISSILE",
+  "size": "MEDIUM",
+  "turretSprite": "graphics/weapons/SK_COL_Medium_Nuclear_Missile_Laucher_turret.png",
+  "hardpointSprite": "graphics/weapons/SK_COL_Medium_Nuclear_Missile_Laucher_hardpoint.png",
+  "renderHints": [
+    SUSPEND_RECOIL
+  ],
+  "turretOffsets": [
+    8.5,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    13.5,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "ALTERNATING",
+  "animationType": "SMOKE",
+	"smokeSpec":{"particleSizeMin":5.0,
+							 "particleSizeRange":6.0,
+							 "cloudParticleCount":3,
+							 "cloudDuration":1.5,
+							 "cloudRadius":6.0;
+							 "blowbackParticleCount":3,
+							 "blowbackDuration":0.45,
+							 "blowbackLength":10.0,
+							 "blowbackSpread":6.0,
+							 "particleColor":[190,180,160,95]},
+  "fireSoundTwo": "hammer_fire"
+}
