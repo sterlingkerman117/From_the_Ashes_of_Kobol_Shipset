@@ -1,3 +1,6 @@
+v.0.2.1
+    - Attempted to fix Version Checker support.
+
 v.0.2.0
     - Added new Colonial civilian ships.
     - Made it so PD weapons now also target fighters.
@@ -9,7 +12,7 @@ v.0.2.0
     - Increased flux on all Heavy Fighters.
     - Made variant sound effect for Spinal Cannons. Deeper and louder.
     - Made it so nuclear weapons won't hit friendly ships.
-    - Added version checker support.
+    - Added Version Checker support.
 
 v.0.1.4
     - Increased flux dissipation on all ships.
