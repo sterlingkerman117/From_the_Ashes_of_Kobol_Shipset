@@ -1,0 +1,43 @@
+{
+    "displayName": "Gunstar",
+    "fluxCapacitors": 20,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "SK_COL_Amphilochus",
+    "hullMods": [
+        "armoredweapons",
+        "auxiliarythrusters"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Amphilochus_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Medium_Nuclear_Missile"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "SK_COL_Medium_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "SK_COL_Medium_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "SK_COL_Medium_Flak"
+            }
+        }
+    ]
+}

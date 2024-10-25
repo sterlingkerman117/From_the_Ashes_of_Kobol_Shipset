@@ -1,0 +1,20 @@
+{
+    "displayName": "Heavy Fighter",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "SK_COL_ViperMk1",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_ViperMk1_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "SK_COL_Viper_Cannon",
+                "WS 001": "SK_COL_Viper_Cannon"
+            }
+        }
+    ]
+}

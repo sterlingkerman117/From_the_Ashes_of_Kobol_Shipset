@@ -1,0 +1,38 @@
+{
+    "displayName": "Expedition",
+    "fluxCapacitors": 11,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "SK_COL_Celestra",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "SK_COL_Celestra_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "SK_COL_Medium_Battery",
+                "WS 002": "SK_COL_Medium_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 005": "SK_COL_Medium_Flak",
+                "WS 004": "SK_COL_Medium_Flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "SK_COL_Small_Flak",
+                "WS 006": "SK_COL_Small_Flak",
+                "WS 001": "SK_COL_Small_Flak",
+                "WS 000": "SK_COL_Small_Flak"
+            }
+        }
+    ]
+}

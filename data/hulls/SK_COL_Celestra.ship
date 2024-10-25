@@ -1,0 +1,224 @@
+{
+    "hullName": "Celestra",
+    "hullId": "SK_COL_Celestra",
+    "hullSize": "DESTROYER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/destroyers/SK_COL_Celestra.png",
+    "height": 192,
+    "width": 76,
+    "center": [
+        38, 96
+    ],
+    "collisionRadius": 104,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 104,
+    "viewOffset": 0,
+    "builtInMods": [
+        "civgrade",
+        "hardened_subsystems",
+        "surveying_equipment"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 90,
+            "locations": [
+                      85,     28.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 270,
+            "locations": [
+                      85,    -28.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 90,
+            "locations": [
+                    49.5,     17.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 270,
+            "locations": [
+                    49.5,    -17.5
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 90,
+            "locations": [
+                      -4,     17.5
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 270,
+            "locations": [
+                      -4,    -17.5
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 90,
+            "locations": [
+                     -64,     17.5
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 270,
+            "locations": [
+                     -64,    -17.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -94, 3
+            ],
+            "length": 25,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 25,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -94, -3
+            ],
+            "length": 25,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 25,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -94, 8
+            ],
+            "length": 25,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 25,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -94, -8
+            ],
+            "length": 25,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 25,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -94, 13
+            ],
+            "length": 25,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 25,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -94, -13
+            ],
+            "length": 25,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 25,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+            94.5,    -30.5,
+            91.5,    -32.5,
+            88.5,    -36.5,
+            81.5,    -36.5,
+            77.5,    -31.5,
+        
+            77.5,    -21.5,
+           -11.5,    -21.5,
+           -11.5,    -25.5,
+           -32.5,    -29.5,
+           -55.5,    -29.5,
+        
+           -58.5,    -21.5,
+           -73.5,    -21.5,
+           -73.5,    -27.5,
+           -75.5,    -29.5,
+           -83.5,    -32.5,
+        
+           -87.5,    -32.5,
+           -94.5,    -28.5,
+           -93.5,    -24.5,
+           -93.5,     24.5,
+           -94.5,     28.5,
+        
+           -87.5,     32.5,
+           -83.5,     32.5,
+           -75.5,     29.5,
+           -73.5,     27.5,
+           -73.5,     21.5,
+        
+           -58.5,     21.5,
+           -55.5,     29.5,
+           -32.5,     29.5,
+           -11.5,     25.5,
+           -11.5,     21.5,
+        
+            77.5,     21.5,
+            77.5,     31.5,
+            81.5,     36.5,
+            88.5,     36.5,
+            91.5,     32.5,
+        
+            94.5,     30.5
+    # 36 points total.
+    ]
+}

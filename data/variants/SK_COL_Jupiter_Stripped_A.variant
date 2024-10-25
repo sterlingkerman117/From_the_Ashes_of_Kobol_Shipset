@@ -1,0 +1,78 @@
+{
+    "displayName": "Battlestar",
+    "fluxCapacitors": 30,
+    "fluxVents": 30,
+    "goalVariant": false,
+    "hullId": "SK_COL_Jupiter_Stripped",
+    "hullMods": [
+        "armoredweapons",
+        "ecm",
+        "recovery_shuttles"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Jupiter_Stripped_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "SK_COL_Nuclear_Torpedo",
+                "WS 000": "SK_COL_Nuclear_Torpedo"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "SK_COL_Spinal_Cannon",
+                "WS 002": "SK_COL_Spinal_Cannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "SK_COL_Medium_Battery",
+                "WS 005": "SK_COL_Medium_Battery",
+                "WS 009": "SK_COL_Medium_Battery",
+                "WS 010": "SK_COL_Medium_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 012": "SK_COL_Small_Battery",
+                "WS 014": "SK_COL_Small_Battery",
+                "WS 015": "SK_COL_Small_Battery",
+                "WS 013": "SK_COL_Small_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "SK_COL_Medium_Flak",
+                "WS 008": "SK_COL_Medium_Flak",
+                "WS 011": "SK_COL_Medium_Flak",
+                "WS 006": "SK_COL_Medium_Flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 019": "SK_COL_Small_Flak",
+                "WS 017": "SK_COL_Small_Flak",
+                "WS 016": "SK_COL_Small_Flak",
+                "WS 018": "SK_COL_Small_Flak"
+            }
+        }
+    ],
+    "wings": [
+        "SK_COL_Blackbird_wing",
+        "SK_COL_ViperMk4_wing",
+        "SK_COL_RaptorMk1_wing",
+        "SK_COL_ViperMk6_wing"
+    ]
+}

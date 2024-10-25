@@ -1,0 +1,177 @@
+{
+    "hullName": "Cloud 9F",
+    "hullId": "SK_COL_Cloud9F",
+    "hullSize": "DESTROYER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/destroyers/SK_COL_Cloud9F.png",
+    "height": 182,
+    "width": 74,
+    "center": [
+        37, 91
+    ],
+    "collisionRadius": 99,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 99,
+    "viewOffset": 0,
+    "builtInMods": [
+        "civgrade",
+        "hardened_subsystems"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                       3,       19
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 180,
+            "locations": [
+                     -78,       19
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -90, 19
+            ],
+            "length": 30,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 30,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -89, 26.5
+            ],
+            "length": 30,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 30,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -89, 11
+            ],
+            "length": 30,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 30,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -78, -21
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 30,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           -89.5,     20.5,
+           -88.5,     28.5,
+           -81.5,     35.5,
+           -61.5,     35.5,
+           -49.5,     31.5,
+        
+           -48.5,     26.5,
+           -27.5,     26.5,
+           -26.5,     28.5,
+           -19.5,     31.5,
+            -8.5,     31.5,
+        
+            -8.5,     28.5,
+             9.5,     28.5,
+            13.5,     26.5,
+            16.5,     23.5,
+            17.5,     21.5,
+        
+            17.5,     15.5,
+            15.5,     12.5,
+            13.5,     10.5,
+             9.5,      8.5,
+            15.5,      6.5,
+        
+            29.5,      6.5,
+            29.5,      2.5,
+            36.5,      2.5,
+            38.5,      4.5,
+            45.5,      5.5,
+        
+            64.5,      7.5,
+            70.5,      7.5,
+            80.5,      6.5,
+            87.5,      4.5,
+            89.5,      2.5,
+        
+            89.5,      1.5,
+            80.5,     -2.5,
+            73.5,     -2.5,
+            73.5,     -5.5,
+            75.5,     -8.5,
+        
+            75.5,    -13.5,
+            79.5,    -14.5,
+            83.5,    -17.5,
+            84.5,    -18.5,
+            84.5,    -23.5,
+        
+            83.5,    -24.5,
+            79.5,    -26.5,
+            75.5,    -26.5,
+            75.5,    -33.5,
+            74.5,    -35.5,
+        
+            14.5,    -35.5,
+            12.5,      -33,
+            12.5,    -28.5,
+            12.5,    -24.5,
+             6.5,    -25.5,
+        
+             0.5,    -25.5,
+            -5.5,    -24.5,
+            -6.5,    -27.5,
+            -6.5,    -34.5,
+            -8.5,    -35.5,
+        
+           -67.5,    -35.5,
+           -68.5,    -34.5,
+           -68.5,    -26.5,
+           -73.5,    -26.5,
+           -77.5,    -24.5,
+        
+           -77.5,    -18.5,
+           -72.5,    -14.5,
+           -68.5,    -14.5,
+           -68.5,     -7.5,
+           -66.5,     -5.5,
+        
+           -61.5,      1.5,
+           -81.5,      1.5,
+           -87.5,      8.5,
+           -88.5,      9.5,
+           -89.5,     17.5
+    # 70 points total.
+    ]
+}

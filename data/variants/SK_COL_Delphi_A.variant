@@ -1,0 +1,14 @@
+{
+    "displayName": "Flat Top",
+    "fluxCapacitors": 17,
+    "fluxVents": 17,
+    "goalVariant": false,
+    "hullId": "SK_COL_Delphi",
+    "hullMods": [
+        "efficiency_overhaul",
+        "rugged"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Delphi_A",
+    "weaponGroups": []
+}

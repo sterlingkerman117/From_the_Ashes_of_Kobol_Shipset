@@ -1,0 +1,13 @@
+{
+    "displayName": "Freighter",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "SK_COL_Firefly",
+    "hullMods": [
+        "efficiency_overhaul"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Firefly_A",
+    "weaponGroups": []
+}

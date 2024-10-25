@@ -1,0 +1,27 @@
+{
+	"id":"SK_COL_Viper_Cannon",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"BALLISTIC",
+	"size":"SMALL",
+    "turretSprite": "graphics/weapons/SK_COL_BLANK.png",
+    "turretGunSprite": "graphics/weapons/SK_COL_BLANK.png",
+    "hardpointSprite": "graphics/weapons/SK_COL_BLANK.png",
+    "hardpointGunSprite": "graphics/weapons/SK_COL_BLANK.png",
+	"visualRecoil":0.0,  # the gun sprites are only used if this is non-0
+	"turretOffsets":[0, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[1, 0],
+	"hardpointAngleOffsets":[0],
+	"renderHints":[RENDER_BARREL_BELOW],
+	"barrelMode":"ALTERNATING", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"MUZZLE_FLASH",
+	"muzzleFlashSpec":{"length":20.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":6.0,
+					   "particleSizeMin":6.0,
+					   "particleSizeRange":8.0,
+					   "particleDuration":0.15,
+					   "particleCount":7,
+					   "particleColor":[165,225,185,175]},
+	"projectileSpecId":"lightmg_shot",  # projectile that will be fired
+	"fireSoundTwo":"SK_COL_Viper_Cannon_fire",
+}

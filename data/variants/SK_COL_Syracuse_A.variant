@@ -1,0 +1,42 @@
+{
+    "displayName": "Freighter",
+    "fluxCapacitors": 29,
+    "fluxVents": 28,
+    "goalVariant": false,
+    "hullId": "SK_COL_Syracuse",
+    "hullMods": [
+        "efficiency_overhaul"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Syracuse_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "SK_COL_Small_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Small_Flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "SK_COL_Small_Flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "SK_COL_Small_Flak"
+            }
+        }
+    ]
+}

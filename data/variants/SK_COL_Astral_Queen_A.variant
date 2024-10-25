@@ -1,0 +1,21 @@
+{
+    "displayName": "Liner",
+    "fluxCapacitors": 19,
+    "fluxVents": 18,
+    "goalVariant": false,
+    "hullId": "SK_COL_Astral_Queen",
+    "hullMods": [
+        "efficiency_overhaul"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Astral_Queen_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Medium_Flak"
+            }
+        }
+    ]
+}

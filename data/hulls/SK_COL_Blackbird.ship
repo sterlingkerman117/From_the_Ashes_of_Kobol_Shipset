@@ -1,0 +1,121 @@
+{
+    "hullName": "Blackbird",
+    "hullId": "SK_COL_Blackbird",
+    "hullSize": "FIGHTER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/fighters/SK_COL_Blackbird.png",
+    "height": 48,
+    "width": 24,
+    "center": [
+        12, 24
+    ],
+    "collisionRadius": 27,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 27,
+    "viewOffset": 0,
+    "builtInMods": [
+        "insulatedengine"
+    ],
+    "builtInWeapons": {
+        "WS 002": "SK_COL_Viper_Torpedo",
+        "WS 000": "SK_COL_Viper_Torpedo",
+        "WS 001": "SK_COL_Viper_Torpedo"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                     0.5,      8.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                     0.5,     -8.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                     3.5,        0
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 90,
+            "angle": 180,
+            "locations": [
+                   -18.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -22.5, -8
+            ],
+            "length": 15,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -22.5, 8
+            ],
+            "length": 15,
+            "width": 5,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           -18.5,      5.5,
+           -22.5,      5.5,
+           -22.5,     10.5,
+             1.5,     10.5,
+             1.5,      4.5,
+        
+             6.5,      4.5,
+            14.5,      3.5,
+            20.5,      2.5,
+            22.5,      1.5,
+            22.5,     -1.5,
+        
+            20.5,     -2.5,
+            14.5,     -3.5,
+             6.5,     -4.5,
+             1.5,     -4.5,
+             1.5,    -10.5,
+        
+           -22.5,    -10.5,
+           -22.5,     -5.5,
+           -18.5,     -5.5
+    # 18 points total.
+    ]
+}

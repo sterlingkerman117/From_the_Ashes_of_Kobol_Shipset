@@ -1,0 +1,252 @@
+{
+    "hullName": "Harrier",
+    "hullId": "SK_COL_Harrier",
+    "hullSize": "CRUISER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/cruisers/SK_COL_Harrier.png",
+    "height": 342,
+    "width": 184,
+    "center": [
+        92, 171
+    ],
+    "collisionRadius": 192,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 192,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                   165.5,     15.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                   165.5,    -15.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                     139,       14
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                     139,      -14
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                    32.5,       52
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                    32.5,      -52
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                    81.5,     43.5
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                    81.5,    -43.5
+            ]
+        },
+        {
+            "id": "WS 010",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 90,
+            "locations": [
+                   -38.5,     90.5
+            ]
+        },
+        {
+            "id": "WS 011",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 270,
+            "locations": [
+                   -38.5,    -90.5
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                  -101.5,     90.5,
+                  -169.5,     70.5,
+                  -169.5,     64.5
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                  -101.5,    -90.5,
+                  -169.5,    -70.5,
+                  -169.5,    -64.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -123.5, 19.5
+            ],
+            "length": 80,
+            "width": 15,
+            "angle": 180,
+            "contrailSize": 80,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -123.5, -19.5
+            ],
+            "length": 80,
+            "width": 15,
+            "angle": 180,
+            "contrailSize": 80,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -123.5, 34.5
+            ],
+            "length": 80,
+            "width": 15,
+            "angle": 180,
+            "contrailSize": 80,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -123.5, -34.5
+            ],
+            "length": 80,
+            "width": 15,
+            "angle": 180,
+            "contrailSize": 80,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           169.5,     -5.5,
+           168.5,    -10.5,
+           165.5,    -10.5,
+           165.5,    -20.5,
+           152.5,    -38.5,
+        
+           135.5,    -54.5,
+           116.5,    -67.5,
+            97.5,    -76.5,
+            95.5,    -81.5,
+            80.5,    -82.5,
+        
+            56.5,    -88.5,
+            43.5,    -90.5,
+          -137.5,    -90.5,
+          -167.5,    -79.5,
+          -169.5,    -76.5,
+        
+          -169.5,    -58.5,
+          -167.5,    -55.5,
+          -135.5,    -43.5,
+          -124.5,    -43.5,
+          -124.5,     43.5,
+        
+          -135.5,     43.5,
+          -167.5,     55.5,
+          -169.5,     58.5,
+          -169.5,     76.5,
+          -167.5,     79.5,
+        
+          -137.5,     90.5,
+            43.5,     90.5,
+            56.5,     88.5,
+            80.5,     82.5,
+            95.5,     81.5,
+        
+            97.5,     76.5,
+           116.5,     67.5,
+           135.5,     54.5,
+           152.5,     38.5,
+           165.5,     20.5,
+        
+           165.5,     10.5,
+           168.5,     10.5,
+           169.5,      5.5
+    # 38 points total.
+    ]
+}

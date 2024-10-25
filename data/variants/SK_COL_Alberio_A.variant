@@ -1,0 +1,39 @@
+{
+    "displayName": "Gunstar",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "SK_COL_Alberio",
+    "hullMods": [
+        "armoredweapons",
+        "auxiliarythrusters"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Alberio_A",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Medium_Nuclear_Missile"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "SK_COL_Medium_Battery"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "SK_COL_Small_Flak"
+            }
+        }
+    ],
+    "wings": [
+        "SK_COL_Python_wing"
+    ]
+}

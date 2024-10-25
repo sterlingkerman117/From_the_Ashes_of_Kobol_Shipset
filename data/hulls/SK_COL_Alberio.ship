@@ -1,0 +1,134 @@
+{
+    "hullName": "Alberio",
+    "hullId": "SK_COL_Alberio",
+    "hullSize": "FRIGATE",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/frigates/SK_COL_Alberio.png",
+    "height": 182,
+    "width": 74,
+    "center": [
+        37, 91
+    ],
+    "collisionRadius": 96,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 96,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWeapons": {
+        "WS 000": "SK_COL_Medium_Nuclear_Missile"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                    88.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 180,
+            "locations": [
+                   -19.5,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                      15,        0
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -14,     32.5,
+                     -14,    -33.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -88, 9.5
+            ],
+            "length": 40,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 40,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -88, -9.5
+            ],
+            "length": 40,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 40,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+            88.5,     -5.5,
+            89.5,     -8.5,
+            76.5,    -14.5,
+            64.5,    -18.5,
+            42.5,    -22.5,
+        
+            28.5,    -31.5,
+            -1.5,    -32.5,
+            -3.5,    -35.5,
+           -24.5,    -35.5,
+           -28.5,    -31.5,
+        
+           -39.5,    -26.5,
+           -54.5,    -22.5,
+           -75.5,    -18.5,
+           -88.5,    -13.5,
+           -89.5,     -7.5,
+        
+           -89.5,      7.5,
+           -88.5,     13.5,
+           -75.5,     18.5,
+           -54.5,     22.5,
+           -39.5,     26.5,
+        
+           -28.5,     31.5,
+           -24.5,     35.5,
+            -3.5,     35.5,
+            -1.5,     32.5,
+            28.5,     31.5,
+        
+            42.5,     22.5,
+            64.5,     18.5,
+            76.5,     14.5,
+            89.5,      8.5,
+            88.5,      5.5
+    # 30 points total.
+    ]
+}

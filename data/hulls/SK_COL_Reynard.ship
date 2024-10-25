@@ -1,0 +1,168 @@
+{
+    "hullName": "Reynard",
+    "hullId": "SK_COL_Reynard",
+    "hullSize": "DESTROYER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/destroyers/SK_COL_Reynard.png",
+    "height": 222,
+    "width": 86,
+    "center": [
+        43, 111
+    ],
+    "collisionRadius": 122,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 122,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                    79.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 180,
+            "locations": [
+                     -56,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 90,
+            "locations": [
+                      14,     41.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 270,
+            "locations": [
+                      14,    -41.5
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 90,
+            "locations": [
+                      78,     38.5
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 90,
+            "angle": 270,
+            "locations": [
+                      78,    -38.5
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    85.5,     38.5,
+                   105.5,      2.5,
+                   105.5,      5.5,
+                   -95.5,      2.5,
+                   -95.5,      5.5
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    85.5,    -38.5,
+                   105.5,     -1.5,
+                   105.5,     -4.5,
+                   -95.5,     -1.5,
+                   -95.5,     -4.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -109, 29
+            ],
+            "length": 50,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -109, -29
+            ],
+            "length": 50,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           109.5,    -38.5,
+            97.5,    -38.5,
+            97.5,    -41.5,
+           -87.5,    -41.5,
+           -87.5,    -38.5,
+        
+           -99.5,    -38.5,
+          -109.5,    -35.5,
+          -109.5,    -22.5,
+           -99.5,    -19.5,
+           -99.5,     19.5,
+        
+          -109.5,     22.5,
+          -109.5,     35.5,
+           -99.5,     38.5,
+           -87.5,     38.5,
+           -87.5,     41.5,
+        
+            97.5,     41.5,
+            97.5,     38.5,
+           109.5,     38.5
+    # 18 points total.
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "hullName": "Athena",
+    "hullId": "SK_COL_Athena",
+    "hullSize": "DESTROYER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/destroyers/SK_COL_Athena.png",
+    "height": 274,
+    "width": 96,
+    "center": [
+        48, 137
+    ],
+    "collisionRadius": 144,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 144,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hardened_subsystems"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                   131.5,       15
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 0,
+            "locations": [
+                   131.5,      -15
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 90,
+            "locations": [
+                    72.5,       21
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 270,
+            "locations": [
+                    72.5,      -21
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 90,
+            "locations": [
+                   -36.5,     32.5
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 270,
+            "locations": [
+                   -36.5,    -32.5
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                   -18.5,     46.5,
+                      29,     36.5,
+                     -80,     36.5
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                   -18.5,    -46.5,
+                      29,    -36.5,
+                     -80,    -36.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -135.5, 20
+            ],
+            "length": 50,
+            "width": 15,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -135.5, -20
+            ],
+            "length": 50,
+            "width": 15,
+            "angle": 180,
+            "contrailSize": 50,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           135.5,    -17.5,
+           131.5,    -19.5,
+             124,    -21.5,
+           120.5,    -21.5,
+           118.5,    -23.5,
+        
+           109.5,    -25.5,
+            95.5,    -27.5,
+            78.5,    -29.5,
+            50.5,    -29.5,
+            45.5,    -28.5,
+        
+            31.5,    -22.5,
+            21.5,    -20.5,
+            21.5,    -27.5,
+            34.5,    -29.5,
+            34.5,    -44.5,
+        
+            27.5,    -46.5,
+           -81.5,    -46.5,
+           -85.5,    -45.5,
+           -85.5,    -29.5,
+           -78.5,    -28.5,
+        
+           -78.5,    -24.5,
+           -91.5,    -28.5,
+          -135.5,    -28.5,
+          -135.5,    -12.5,
+          -130.5,     -9.5,
+        
+          -125.5,     -3.5,
+          -125.5,      3.5,
+          -130.5,      9.5,
+          -135.5,     12.5,
+          -135.5,     28.5,
+        
+           -91.5,     28.5,
+           -78.5,     24.5,
+           -78.5,     28.5,
+           -85.5,     29.5,
+           -85.5,     45.5,
+        
+           -81.5,     46.5,
+            27.5,     46.5,
+            34.5,     44.5,
+            34.5,     29.5,
+            21.5,     27.5,
+        
+            21.5,     20.5,
+            31.5,     22.5,
+            45.5,     28.5,
+            50.5,     29.5,
+            78.5,     29.5,
+        
+            95.5,     27.5,
+           109.5,     25.5,
+           118.5,     23.5,
+           120.5,     21.5,
+             124,     21.5,
+        
+           131.5,     19.5,
+           135.5,     17.5
+    # 52 points total.
+    ]
+}

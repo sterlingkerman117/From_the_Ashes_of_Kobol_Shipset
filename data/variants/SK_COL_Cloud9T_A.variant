@@ -1,0 +1,22 @@
+{
+    "displayName": "Transport",
+    "fluxCapacitors": 19,
+    "fluxVents": 19,
+    "goalVariant": false,
+    "hullId": "SK_COL_Cloud9T",
+    "hullMods": [
+        "efficiency_overhaul"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Cloud9T_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Small_Flak",
+                "WS 001": "SK_COL_Small_Flak"
+            }
+        }
+    ]
+}

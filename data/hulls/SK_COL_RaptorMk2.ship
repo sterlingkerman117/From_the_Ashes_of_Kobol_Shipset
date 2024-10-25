@@ -1,0 +1,117 @@
+{
+    "hullName": "Raptor MkII",
+    "hullId": "SK_COL_RaptorMk2",
+    "hullSize": "FIGHTER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/fighters/SK_COL_RaptorMk2.png",
+    "height": 48,
+    "width": 32,
+    "center": [
+        16, 24
+    ],
+    "collisionRadius": 29,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 29,
+    "viewOffset": 0,
+    "builtInMods": [
+        "insulatedengine"
+    ],
+    "builtInWeapons": {
+        "WS 003": "SK_COL_Viper_Cannon",
+        "WS 000": "SK_COL_Viper_Missile",
+        "WS 001": "SK_COL_Viper_Missile"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                     2.5,      7.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                     2.5,     -7.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 90,
+            "angle": 180,
+            "locations": [
+                   -14.5,        0
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                    21.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -18, -3
+            ],
+            "length": 15,
+            "width": 3,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -18, 3
+            ],
+            "length": 15,
+            "width": 3,
+            "angle": 180,
+            "contrailSize": 15,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+            19.5,     -5.5,
+             9.5,    -10.5,
+            -5.5,    -14.5,
+            -9.5,    -10.5,
+           -22.5,     -9.5,
+        
+           -18.5,     -4.5,
+           -18.5,      4.5,
+           -22.5,      9.5,
+            -9.5,     10.5,
+            -5.5,     14.5,
+        
+            -0.5,     14.5,
+             9.5,     10.5,
+            19.5,      5.5,
+            22.5,      2.5,
+            22.5,     -2.5
+    # 15 points total.
+    ]
+}
