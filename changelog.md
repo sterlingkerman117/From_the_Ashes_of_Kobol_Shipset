@@ -1,3 +1,6 @@
+v.0.2.2
+    - Attempted again to fix Version Checker support.
+
 v.0.2.1
     - Attempted to fix Version Checker support.
 
