@@ -2,12 +2,12 @@
   "masterVersionFile": "https://raw.githubusercontent.com/sterlingkerman117/From_the_Ashes_of_Kobol_Shipset/main/From_the_Ashes_of_Kobol_Shipset.version",
   "modName": "From the Ashes of Kobol - BSG Shipset",
   "modThreadId": "30747",
-  "directDownloadURL": "https://github.com/sterlingkerman117/From_the_Ashes_of_Kobol_Shipset/releases/download/v.0.2.5/From_the_Ashes_of_Kobol_Shipset_v.0.2.4.zip",
+  "directDownloadURL": "https://github.com/sterlingkerman117/From_the_Ashes_of_Kobol_Shipset/releases/download/v.0.2.6/From_the_Ashes_of_Kobol_Shipset_v.0.2.6.zip",
   "changelogURL": "https://raw.githubusercontent.com/sterlingkerman117/From_the_Ashes_of_Kobol_Shipset/main/changelog.md",
   "modVersion":
     {
       "major": "0",
       "minor": "2",
-      "patch": "5"
+      "patch": "6"
     }
 }
