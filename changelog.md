@@ -1,3 +1,6 @@
+v.0.2.7
+    - Slightly reduced torpedo/missile top speed, made launch speed about 0.25 of max speed.
+
 v.0.2.6
     - Slightly decreased missile/torpedo health in favor of higher speed.
     - Fixed download link in Version Checker.
