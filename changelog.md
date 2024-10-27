@@ -1,3 +1,6 @@
+v.0.2.1
+    - Slightly decreased missile/torpedo health in favor of higher speed.
+
 v.0.2.0
     - Added new Colonial civilian ships.
     - Made it so PD weapons now also target fighters.
