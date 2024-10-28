@@ -1,3 +1,10 @@
+v.0.2.7
+    - Reduced max hull on capitals.
+    - Adjusted flux dissipation on several Cruisers better fitting to number of weapon slots.
+    - Slightly reduced torpedo/missile top speed, made launch speed about 0.25 of max speed.
+    - Slightly decreased torpedo/missile health.
+    - Changed Astral Queen class variant name from Liner to Freighter.
+
 v.0.2.6
     - Slightly decreased missile/torpedo health in favor of higher speed.
     - Fixed download link in Version Checker.
