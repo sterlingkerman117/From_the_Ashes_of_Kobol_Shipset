@@ -1,3 +1,6 @@
+v.0.2.9
+    - Fixed the Berzerk Transport sprite.
+
 v.0.2.8
     - Added new Berzerk Troop Carrier.
 
