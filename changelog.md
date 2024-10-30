@@ -1,3 +1,6 @@
+v.0.2.8
+    - Added new Berzerk Troop Carrier.
+
 v.0.2.7
     - Reduced max hull on capitals.
     - Adjusted flux dissipation on several Cruisers better fitting to number of weapon slots.
