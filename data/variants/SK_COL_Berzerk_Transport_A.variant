@@ -1,0 +1,35 @@
+{
+    "displayName": "Transport",
+    "fluxCapacitors": 17,
+    "fluxVents": 17,
+    "goalVariant": false,
+    "hullId": "SK_COL_Berzerk_Transport",
+    "hullMods": [
+        "militarized_subsystems",
+        "heavyarmor",
+        "solar_shielding",
+        "blast_doors"
+    ],
+    "quality": 0.0,
+    "variantId": "SK_COL_Berzerk_Transport_A",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "SK_COL_Small_Flak",
+                "WS 001": "SK_COL_Small_Flak",
+                "WS 005": "SK_COL_Small_Flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "SK_COL_Small_Flak",
+                "WS 004": "SK_COL_Small_Flak",
+                "WS 002": "SK_COL_Small_Flak"
+            }
+        }
+    ]
+}
